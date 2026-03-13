@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "arabic-srs",
+    "prod": "arabic-srs"
+  },
+  "targets": {},
+  "etags": {}
+}

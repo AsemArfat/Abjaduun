@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562135749285",
+    "project_id": "arabic-srs",
+    "storage_bucket": "arabic-srs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562135749285:android:5770475b12454edf31334c",
+        "android_client_info": {
+          "package_name": "com.example.arabic_srs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRSu2lcqzr2NUUGUqo2xEKOcDBSkh9wbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
